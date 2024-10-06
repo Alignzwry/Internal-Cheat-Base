@@ -15,4 +15,4 @@
 - Only **x64**
 - Only tested on **Visual Studio 2019 and 2022**
 - **No Linux Support** as of now
-- You need the **[DIrectX SDK](https://www.microsoft.com/en-us/download/details.aspx?id=6812 "DIrectX SDK")**
+- You need the **[DirectX SDK](https://www.microsoft.com/en-us/download/details.aspx?id=6812 "DIrectX SDK")**
