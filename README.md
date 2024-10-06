@@ -1,5 +1,5 @@
 #### README.md
->An Internal cheat base for any game with Directx11
+>An Internal Cheat Base for any game with Directx11, C++ 17
 
 ---
 # Internal Cheat Template
